@@ -1,4 +1,27 @@
-            
+<table>
+  <tr>
+    <td>
+      <h3>Outer Void</h3>
+      <p>A Universe containing the BLUX Ecosystem — orchestrated by conscious design.</p>
+      <p>
+        <a href="https://github.com/Outer-Void/blux-ecosystem">BLUX Ecosystem</a>
+        <a href="https://github.com/Outer-Void/blux-ca">BLUX-cA</a>
+        <a href="https://github.com/Outer-Void/blux-lite">BLUX Lite</a>
+        <a href="https://github.com/Outer-Void/blux-guard">BLUX Guard</a>
+        <a href="https://github.com/Outer-Void/blux-doctrine">BLUX Doctrine</a>
+        <a href="https://github.com/Outer-Void/blux-quantum">BLUX Quantum</a>
+        <a href="https://github.com/Outer-Void/blux-commander">BLUX Commander</a>
+        <a href="https://github.com/Outer-Void/blux-reg">BLUX Reg</a>
+        <a href="https://github.com/Outer-Void/dat">DAT</a>
+        <a href="https://github.com/Outer-Void/lrc">LRC</a>
+        <a href="https://github.com/Outer-Void/dat-scan">DAT-Scan</a>
+        <a href="https://github.com/Outer-Void/blux10k">BLUX10K</a>
+        <a href="https://github.com/Outer-Void/god">GOD</a>
+      </p>
+    </td>
+    <td>
+      <pre>
+                  
                                       ;I,:;;}                 
                                       lu&888m;                
                                     l(&&WW&nun                
@@ -36,8 +59,7 @@
                               .C'`-?)--]--?<''v  
                                  I|`'''''''Q 
                                                                  
-                                                                 
-                                                                 
+                                                                                                    
                                                                  
                                                                  
                                                                  
@@ -56,5 +78,8 @@
        nrxxxxrxxxnn]n   ntxnnxnnnuun   :{xnqxxLxx;Y   vXxn'/   c?rC<+
        j!!!!!!l!l`')    ~:;;;;;;;;Ix    '':nvv{''u    z><"{     r+)()
         /nnjjxtf(`       ;++__~+++~       n'''''      ]LQl       O``-
-                                                                  
-                                                                  
+
+
+
+  </tr>
+</table>
