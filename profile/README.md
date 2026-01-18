@@ -3,9 +3,3 @@
 </p>
 
 > Outer Void is built with a clear ethical foundation.
-
-> The creator of this ecosystem is a Christian, and these projects are developed in alignment with values of truth, accountability, stewardship, and respect for human dignity.
-
-> This is not a religious platform. No belief is required to use, contribute to, or critique the work.
-
-> Faith here functions as a moral compass, not a gate — guiding decisions toward transparency, auditability, and responsibility in an era of increasingly powerful technology.
