@@ -4,14 +4,15 @@
 
 > Outer Void is built with a clear ethical foundation.
 
+# Outer Void
 
-Outer-Void
+Independent Software Products · Developer Tooling · AI Systems · Android Engineering · Experimental Systems
 
-Independent Software Products · Developer Tooling · AI Systems · Experimental Engineering
+Outer Void is an independent software organization founded by Christopher Osburn for building practical software products, developer infrastructure, intelligent systems, and experimental technology that doesn't always fit neatly inside conventional development boxes.
 
-Outer-Void is an independent software organization founded by Christopher Osburn for building practical software products and exploring systems that don't fit neatly inside conventional development boxes.
+All active Outer Void projects now live under the Outer-Void organization, providing a single home for the products, tools, engines, research, and infrastructure being developed across the ecosystem.
 
-The work ranges from production-oriented applications and Android systems to developer tooling, automation, SaaS products, structured AI experimentation, and rapid product prototypes.
+The work ranges from production-oriented applications and Android systems to developer tooling, automation, SaaS products, structured AI research, and experimental engineering.
 
 The common principle is simple:
 
@@ -19,109 +20,261 @@ The common principle is simple:
 
 ---
 
-Flagship Projects
+## Flagship Products
 
-The Resolver Bot
+### AXIOM Launcher
 
-Telegram moderation and administration platform built around two distinct layers.
+A custom Android launcher built in Kotlin and designed as a polished standalone product rather than simply another Android home screen.
 
-Mechanical Moderation provides deterministic enforcement and administrative controls.
+AXIOM combines configurable home surfaces, widgets, application management, system controls, media integration, customization, and its own native supporting projects.
 
-Intelligence Layer extends the platform with subscription-based administrative intelligence and advanced tooling.
+The AXIOM ecosystem includes:
 
-The system includes explicit authorization boundaries, administrative diagnostics, moderation logs, subscription infrastructure, Mini App surfaces, automated testing, deployment tooling, and release-readiness processes.
+- VOID.SYS — AXIOM's native icon infrastructure and standalone project.
+- AXIOM Shooter — a standalone native project that also exists inside AXIOM Launcher as a hidden home-screen Easter egg.
 
-Python · Telegram · SQLite · OpenAI · Linux
-
----
-
-AXIOM Launcher / VOID.OS
-
-A custom Android launcher and controlled Android environment built in Kotlin.
-
-AXIOM extends beyond a traditional launcher with configurable home surfaces, widgets, app management, system controls, media integration, customization, native VOID.SYS icon infrastructure, protected internal modules, and foundations for commercial entitlement and integrity verification.
+AXIOM Launcher, VOID.SYS, and AXIOM Shooter remain independent proprietary Outer Void projects.
 
 Kotlin · Android · Jetpack Compose
 
 ---
 
-Roughin
+### Roughin
 
 Mobile-first SaaS designed specifically for solo contractors and tradespeople.
 
-Roughin brings clients, jobs, line items, estimates, invoices, photos, payment links, and subscription management into a field-oriented workflow.
+Roughin brings clients, jobs, line items, estimates, invoices, photos, payment links, subscriptions, and field-oriented business workflows into one system.
+
+The project is designed around the realities of actually doing the work—not forcing tradespeople into software built primarily for office environments.
 
 FastAPI · PostgreSQL · SQLAlchemy · React · Vite · Tailwind · Stripe · Cloudflare R2 · Docker
 
 ---
 
-Vigyl
+### Vigyl
 
 Private caregiving and accountability infrastructure designed around continuity rather than simple reminders.
 
-The platform is being developed around private care groups, assigned responsibilities, task completion, accountability, communication, and structured follow-through.
+Vigyl is being developed around private care groups, assigned responsibilities, task completion, accountability, communication, and structured follow-through.
+
+The objective is not merely to remind someone that something needs to happen, but to help ensure responsibility survives the gap between intention and completion.
 
 FastAPI · SQLAlchemy · Pydantic · SQLite
 
 ---
 
-Termux & Developer Tooling
+### VoidForge
 
-Outer-Void development also includes tools designed around mobile development, Linux, Termux, command-line workflows, repository generation, and developer productivity.
+Android-to-Android developer and device-service infrastructure designed to turn an Android device into a capable mobile development, diagnostic, recovery, and service workstation.
 
-The goal is straightforward:
+The project is being developed around workflows including device communication, ADB, Fastboot/Fastbootd, recovery, sideload, terminal operations, Logcat, files and packages, backup and recovery, flashing workflows, and advanced Android tooling.
 
-Remove unnecessary friction between an idea and a working system.
+VoidForge is designed to remain fully functional as a standalone application while also participating in the broader BLUX and Outer Void ecosystem.
 
----
+VoidForge is currently free and restricted to authorized Outer-Void organization members.
 
-BLUX
-
-BLUX represents the experimental AI research side of Outer-Void.
-
-The ecosystem explores structured AI systems, deterministic reasoning, dataset design, modular intelligence architecture, and tooling for building more controlled AI workflows.
-
-BLUX is an important part of Outer-Void.
-
-It is not the entirety of Outer-Void.
+Android · Kotlin · ADB · Fastboot · Termux · Linux
 
 ---
 
-Engineering Areas
+## Private Systems
 
-"AI-Assisted Development"
+### TheResolverBot
 
-"Python"
+TheResolverBot is a private Telegram moderation and administration platform built around deterministic enforcement, explicit authorization boundaries, administrative tooling, diagnostics, moderation records, subscription infrastructure, automated testing, deployment tooling, and intelligent administrative capabilities.
 
-"Android / Kotlin"
+The project remains actively maintained within Outer-Void but is no longer a public repository.
 
-"Backend Systems"
-
-"REST APIs"
-
-"Automation"
-
-"Developer Tooling"
-
-"SaaS"
-
-"Rapid Prototyping"
-
-"System Architecture"
-
-"Linux"
-
-"CI/CD"
+Python · Telegram · SQLite · AI Integration · Linux
 
 ---
 
-Development Philosophy
+## BLUX
 
-AI-assisted development changes how quickly software can be created.
+BLUX is the intelligence and integration platform being developed within Outer Void.
+
+What began as a collection of structured AI experiments is evolving into a larger architecture for combining artificial intelligence, deterministic reasoning, construction engines, developer tooling, autonomous workflows, execution evidence, and independently useful software systems.
+
+BLUX is being designed around a simple idea:
+
+«Intelligence should enhance a system without requiring the system to surrender control of itself.»
+
+The architecture is being developed around independent engines and applications connected through explicit contracts rather than one massive application containing everything.
+
+Areas under active development and research include:
+
+- AI model abstraction and routing
+- Structured reasoning
+- Deterministic construction
+- Tool and capability discovery
+- Agent execution
+- Developer automation
+- Execution receipts and provenance
+- Dataset engineering
+- Evaluation infrastructure
+- AI-assisted software development
+- Local and remote model integration
+- Android and device integration
+
+BLUX is an important part of Outer Void.
+
+It is not the entirety of Outer Void.
+
+---
+
+## Two Interfaces
+
+The emerging Outer Void architecture intentionally separates direct intelligence from ecosystem control.
+
+"blux"
+
+The direct interface to BLUX intelligence.
+
+Designed for conversational, piped, scripted, and model-assisted workflows without requiring the user to operate the entire Outer Void ecosystem.
+
+"ax"
+
+The AXIOM command-line control plane.
+
+Designed to provide a unified interface across compatible Outer Void tools, engines, development environments, project systems, and device capabilities.
+
+In simple terms:
+
+«"blux" is intelligence. "ax" is orchestration.»
+
+Individual Outer Void tools retain their own native interfaces rather than becoming permanently dependent on either one.
+
+---
+
+## BLUX Engines & Infrastructure
+
+The broader BLUX architecture is being developed from a number of independently useful projects and research systems.
+
+### CogA
+
+Structured reasoning and analysis engine.
+
+### cA
+
+Structured construction, transformation, and repair engine.
+
+### DAT
+
+Repository, artifact, quality, security, and release-analysis tooling.
+
+### LRC
+
+Deterministic repository construction, scaffolding, and project-generation tooling.
+
+### GOD
+
+Tool, command, project, and capability discovery infrastructure.
+
+### BLUX System
+
+Execution evidence, receipts, provenance, operation relationships, and reproducibility infrastructure.
+
+### BLUX Datasets
+
+Dedicated datasets and evaluation infrastructure for CogA, cA, and future BLUX-native intelligence.
+
+These systems are being developed toward interoperability while retaining clear boundaries and independent responsibilities.
+
+---
+
+## Developer Tooling
+
+Outer Void includes a growing collection of developer infrastructure built around mobile development, Linux, Android, Termux, command-line workflows, repository engineering, automation, and developer productivity.
+
+Projects include infrastructure such as:
+
+- AXIOM / "ax"
+- DAT
+- LRC
+- GOD
+- BLUX tooling
+- Termux Background
+- blux10k
+- jadis.toolbox
+- Android development infrastructure
+- repository and release tooling
+
+"jadis.toolbox", now maintained under Outer-Void, is also scheduled for a broader architectural and tooling overhaul as the ecosystem standards mature.
+
+The goal remains straightforward:
+
+«Remove unnecessary friction between an idea and a working system.»
+
+---
+
+## Standalone First
+
+Outer Void does not treat integration as an excuse to create unnecessary dependencies.
+
+Where a project is intended to stand on its own, it should remain useful without BLUX.
+
+That includes products and tools such as:
+
+- AXIOM Launcher
+- Roughin
+- Vigyl
+- VoidForge
+- DAT
+- LRC
+- GOD
+- jadis.toolbox
+
+BLUX integration can provide additional intelligence, automation, reasoning, or orchestration where it creates genuine value.
+
+It should not become a requirement simply because BLUX exists.
+
+VOID.SYS and AXIOM Shooter remain deliberately independent of BLUX intelligence.
+
+---
+
+## Engineering Areas
+
+AI-Assisted Development
+
+Artificial Intelligence Systems
+
+Python
+
+Android / Kotlin
+
+Backend Systems
+
+REST APIs
+
+Automation
+
+Developer Tooling
+
+SaaS
+
+Rapid Prototyping
+
+System Architecture
+
+Linux / Termux
+
+CI/CD
+
+Dataset Engineering
+
+AI Evaluation
+
+Mobile Systems Engineering
+
+---
+
+## Development Philosophy
+
+AI-assisted development changes how quickly software can be researched, designed, implemented, tested, and iterated.
 
 It does not eliminate engineering responsibility.
 
-Outer-Void uses AI as an accelerator for research, architecture, implementation, debugging, documentation, testing, and iteration while retaining human responsibility over system design and final technical decisions.
+Outer Void uses AI as an accelerator across research, architecture, implementation, debugging, documentation, testing, auditing, and experimentation while retaining human responsibility over system design and final technical decisions.
 
 Generated code still has to integrate.
 
@@ -129,7 +282,11 @@ Architecture still has to hold together.
 
 Security boundaries still have to work.
 
+Tests still have to mean something.
+
 Products still have to function outside the development environment.
+
+AI-generated confidence is not evidence that a system works.
 
 The objective isn't to generate the most code.
 
@@ -137,9 +294,9 @@ The objective isn't to generate the most code.
 
 ---
 
-From Physical Systems to Software Systems
+### From Physical Systems to Software Systems
 
-Outer-Void wasn't founded from a traditional computer science career path.
+Outer Void wasn't founded from a traditional computer science career path.
 
 Its founder spent years working in construction, fabrication, renovation, manufacturing, and other hands-on environments before moving into software development.
 
@@ -153,7 +310,9 @@ Build it.
 
 Test it.
 
-Fix what doesn't work.
+Find what doesn't work.
+
+Fix it.
 
 Keep moving.
 
@@ -163,16 +322,42 @@ The builder mentality didn't.
 
 ---
 
-Founder
+## Organization
 
-Christopher Osburn
+Outer Void serves as the home for the active software projects, products, tools, experiments, and engineering infrastructure developed across the ecosystem.
 
-Self-taught software developer, product builder, and systems thinker.
+Projects that once existed under personal development namespaces have been consolidated under the Outer-Void organization so their ownership and relationship to the broader system are explicit.
+
+Some repositories are public.
+
+Some are proprietary.
+
+Some are private research or internal infrastructure.
+
+Some are intentionally restricted.
+
+They do not all have the same distribution model—and they aren't supposed to.
+
+---
+
+## Founder
+
+Christopher Osburn - (JADIS)
+
+Self-taught software developer, product builder, systems architect, and hands-on builder.
 
 Currently open to:
 
 Remote Employment · Contract Development · Project Work · Rapid Prototyping · Automation · AI-Assisted Development · Collaborative Product Development
 
-Personal GitHub: @Justadudeinspace
+Personal GitHub: "@Justadudeinspace"
+Organization: "@Outer-Void"
 
-Organization: @Outer-Void
+---
+
+«Outer Void
+
+Build the system.
+Test the system.
+Understand the system.
+Improve the system.»
