@@ -16,7 +16,7 @@ The work ranges from production-oriented applications and Android systems to dev
 
 The common principle is simple:
 
-«Build systems that reduce chaos, increase clarity, and solve real problems.»
+> Build systems that reduce chaos, increase clarity, and solve real problems.
 
 ---
 
@@ -97,7 +97,7 @@ What began as a collection of structured AI experiments is evolving into a large
 
 BLUX is being designed around a simple idea:
 
-«Intelligence should enhance a system without requiring the system to surrender control of itself.»
+> Intelligence should enhance a system without requiring the system to surrender control of itself.
 
 The architecture is being developed around independent engines and applications connected through explicit contracts rather than one massive application containing everything.
 
@@ -140,7 +140,7 @@ Designed to provide a unified interface across compatible Outer Void tools, engi
 
 In simple terms:
 
-«"blux" is intelligence. "ax" is orchestration.»
+> "blux" is intelligence. "ax" is orchestration.
 
 Individual Outer Void tools retain their own native interfaces rather than becoming permanently dependent on either one.
 
@@ -203,7 +203,7 @@ Projects include infrastructure such as:
 
 The goal remains straightforward:
 
-«Remove unnecessary friction between an idea and a working system.»
+> Remove unnecessary friction between an idea and a working system.
 
 ---
 
@@ -290,7 +290,7 @@ AI-generated confidence is not evidence that a system works.
 
 The objective isn't to generate the most code.
 
-«The objective is to build systems that work.»
+> The objective is to build systems that work.
 
 ---
 
@@ -355,9 +355,9 @@ Organization: "@Outer-Void"
 
 ---
 
-«Outer Void
-
-Build the system.
-Test the system.
-Understand the system.
-Improve the system.»
+> Outer Void
+> 
+> Build the system.
+> Test the system.
+> Understand the system.
+> Improve the system.
