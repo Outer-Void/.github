@@ -42,4 +42,9 @@ Below is a living index of the repositories currently maintained under the BLUX 
 
 ## License
 
-All documentation in this repository is made available under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+**Outer-Void Proprietary License** (proprietary). Copyright (c) 2026 Outer-Void / Justadudeinspace (JADIS). All rights reserved. See [LICENSE](LICENSE).
+
+Copies and releases obtained before 2026-10-25 remain available under the Creative Commons Attribution 4.0 International (CC BY 4.0) they were
+published with; every change and release from that date on is proprietary.
+
+Contact: outervoid.blux@gmail.com (main) · theoutervoid@outlook.com (fallback)
