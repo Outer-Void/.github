@@ -3,6 +3,8 @@
 </p>
 
 > Outer Void is built with a clear ethical foundation.
+>
+> "Currently Under Full System Integration - Stage 06 of 44."
 
 # Outer Void
 
