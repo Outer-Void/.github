@@ -9,6 +9,7 @@ The BLUX ecosystem thrives when every participant can collaborate safely, transp
 3. **Mutual Accountability** – All teams publish agreements, milestones, and retrospectives in shared workspaces. Feedback is a collective responsibility, not a managerial privilege.
 4. **Inclusive Access** – Products and processes must be accessible across abilities, geographies, and languages. We prioritize universal design standards and community localization.
 5. **Safety and Respect** – Harassment, discrimination, or exploitation are never tolerated. Reports trigger transparent restorative processes with clear timelines.
+6. **We Acknowledge the Shoulders We Stand On** – Outer Void recognizes that meaningful engineering is built upon generations of prior work. We make a reasonable, evidence-based effort to acknowledge the people, communities, projects, technologies, research, tools, infrastructure, models, standards, and ideas that enabled or influenced our work. We preserve legally required attribution and voluntarily acknowledge meaningful intellectual contributions beyond those requirements. We distinguish authorship from inspiration, dependency from influence, and evidence from assumption. We do not erase historical contribution simply because our implementation evolves. The canonical record, and the Definition of Done that applies to every stage, live in [Outer-Void/credits](https://github.com/Outer-Void/credits/blob/main/GOVERNANCE.md).
 
 ## Operational Policies
 
