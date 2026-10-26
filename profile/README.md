@@ -4,7 +4,7 @@
 
 > Outer Void is built with a clear ethical foundation.
 >
-> "Currently Under Full System Integration - Stage 20 & 17 (Manual Review) of 44."
+> "Currently Under Full System Integration - Stage 21 - 30 of 44."
 
 # Outer Void
 
