@@ -45,7 +45,7 @@ Kotlin · Android · Jetpack Compose
 
 Mobile-first SaaS designed specifically for solo contractors and tradespeople.
 
-Roughin brings clients, jobs, line items, estimates, invoices, photos, payment links, subscriptions, and field-oriented business workflows into one system.
+Roughin brings clients, jobs, line items, invoices, photos, payment links, subscriptions, and field-oriented business workflows into one system. Estimates are planned.
 
 The project is designed around the realities of actually doing the work—not forcing tradespeople into software built primarily for office environments.
 
@@ -73,7 +73,7 @@ The project is being developed around workflows including device communication, 
 
 VoidForge is designed to remain fully functional as a standalone application while also participating in the broader BLUX and Outer Void ecosystem.
 
-VoidForge is currently free and restricted to authorized Outer-Void organization members.
+VoidForge is currently free and restricted to authorized Outer-Void organization members. Members-only release tooling is in place; making its source repository private is still pending. It is a development preview: device writes are locked and no real-device validation has been recorded yet.
 
 Android · Kotlin · ADB · Fastboot · Termux · Linux
 
