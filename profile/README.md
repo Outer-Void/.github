@@ -45,7 +45,7 @@ Kotlin · Android · Jetpack Compose
 
 Mobile-first SaaS designed specifically for solo contractors and tradespeople.
 
-Roughin brings clients, jobs, line items, invoices, photos, payment links, subscriptions, and field-oriented business workflows into one system. Estimates are planned.
+Roughin brings clients, jobs, line items, invoices, photos, payment links, subscriptions, and field-oriented business workflows into one system. Estimates are generated as PDFs from a job; saved estimates are planned. Not yet released.
 
 The project is designed around the realities of actually doing the work—not forcing tradespeople into software built primarily for office environments.
 
