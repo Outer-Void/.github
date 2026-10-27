@@ -61,7 +61,9 @@ Vigyl is being developed around private care groups, assigned responsibilities, 
 
 The objective is not merely to remind someone that something needs to happen, but to help ensure responsibility survives the gap between intention and completion.
 
-FastAPI · SQLAlchemy · Pydantic · SQLite
+Not yet released: the backend core (accounts, invite-only care groups, task lifecycle, escalation, care timeline) exists; the app UI is not built yet.
+
+FastAPI · SQLAlchemy · Alembic · Pydantic · PostgreSQL
 
 ---
 
@@ -201,7 +203,7 @@ Projects include infrastructure such as:
 - Android development infrastructure
 - repository and release tooling
 
-"jadis.toolbox", now maintained under Outer-Void, is also scheduled for a broader architectural and tooling overhaul as the ecosystem standards mature.
+"jadis.toolbox", now maintained under Outer-Void, was rebuilt in October 2026 around the `jadis` workstation CLI, and a broader architectural and tooling overhaul is scheduled as the ecosystem standards mature.
 
 The goal remains straightforward:
 
