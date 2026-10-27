@@ -1,5 +1,9 @@
 # Ethics Charter
 
+> Corrected 2026-10-27: links to five repositories that never existed (`blux-core`, `blux-orbit`,
+> `blux-design-system`, `blux-experience-kit`, `blux-governance`) were replaced with the components that do this
+> work, or removed. The doctrine itself is unchanged; the earlier text is in git history.
+
 The BLUX ecosystem thrives when every participant can collaborate safely, transparently, and with full agency. This charter codifies the commitments that guide our decisions and interpersonal conduct.
 
 ## Core Principles
@@ -15,13 +19,13 @@ The BLUX ecosystem thrives when every participant can collaborate safely, transp
 
 ### Open Decision-Making
 
-- Governance proposals originate in public issue threads within [`blux-governance`](https://github.com/Outer-Void/blux-governance) and remain open for at least seven days.
+- Governance proposals originate in public issue threads within the [`docs`](https://github.com/Outer-Void/docs) repository and remain open for at least seven days.
 - Votes and endorsements are recorded on-chain or in auditable ledgers with accessible summaries.
-- Breaking changes across repositories require multi-repo RFCs with stewards from [`blux-core`](https://github.com/Outer-Void/blux-core) and [`blux-orbit`](https://github.com/Outer-Void/blux-orbit).
+- Breaking changes across repositories require multi-repo RFCs with stewards from [`blux`](https://github.com/Outer-Void/blux) and every affected repository.
 
 ### Data Stewardship
 
-- Personal data is collected only with explicit, documented consent. Opt-out pathways are always visible inside [`blux-experience-kit`](https://github.com/Outer-Void/blux-experience-kit).
+- Personal data is collected only with explicit, documented consent. Opt-out pathways are always visible inside each product.
 - Telemetry defaults to off. Any opt-in data flow must enumerate recipients, retention timelines, and deletion procedures.
 - Shared datasets are licensed to preserve contributor attribution and limitations.
 
@@ -29,7 +33,7 @@ The BLUX ecosystem thrives when every participant can collaborate safely, transp
 
 - Working groups publish charters that specify scope, decision rituals, and conflict escalation processes.
 - All synchronous meetings are paired with asynchronous notes to keep remote members in sync.
-- Design artifacts from [`blux-design-system`](https://github.com/Outer-Void/blux-design-system) include accessibility annotations and localization guidance.
+- Design artifacts include accessibility annotations and localization guidance.
 
 ### Conflict Transformation
 

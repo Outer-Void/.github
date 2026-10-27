@@ -28,6 +28,8 @@ The common principle is simple:
 
 A custom Android launcher built in Kotlin and designed as a polished standalone product rather than simply another Android home screen.
 
+Repository: `void.os`. AXIOM Launcher is not `ax`: the AXIOM command-line control plane lives in `axiom` (see Two Interfaces).
+
 AXIOM combines configurable home surfaces, widgets, application management, system controls, media integration, customization, and its own native supporting projects.
 
 The AXIOM ecosystem includes:
@@ -89,6 +91,8 @@ TheResolverBot is a private Telegram moderation and administration platform buil
 
 The project remains actively maintained within Outer-Void but is no longer a public repository.
 
+The bot (`resolver`) and its advertising website (`theresolver`) are separate private repositories with independent releases. The bot is the source of truth for moderation, pricing and payments; the website only describes them.
+
 Python · Telegram · SQLite · AI Integration · Linux
 
 ---
@@ -138,7 +142,7 @@ Designed for conversational, piped, scripted, and model-assisted workflows witho
 
 "ax"
 
-The AXIOM command-line control plane.
+The AXIOM command-line control plane (repository `axiom`; not the AXIOM Launcher, which is `void.os`).
 
 Designed to provide a unified interface across compatible Outer Void tools, engines, development environments, project systems, and device capabilities.
 
@@ -183,6 +187,14 @@ Execution evidence, receipts, provenance, operation relationships, and reproduci
 Dedicated datasets and evaluation infrastructure for CogA, cA, and future BLUX-native intelligence.
 
 These systems are being developed toward interoperability while retaining clear boundaries and independent responsibilities.
+
+---
+
+## Repositories
+
+Every active repository, with its role and integration boundary, is listed in the
+[repository ownership map](https://github.com/Outer-Void/docs/blob/main/constitution/repositories.md). Security reports:
+[SECURITY](https://github.com/Outer-Void/.github/blob/main/SECURITY.md).
 
 ---
 

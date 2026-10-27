@@ -1,6 +1,6 @@
 # Outer-Void Organizational Hub
 
-Welcome to the coordination hub for the [Outer-Void](https://github.com/Outer-Void) collective. This repository curates shared doctrine, design language, and collaborative agreements that guide every project in the BLUX ecosystem. It is the single point of reference for:
+Welcome to the coordination hub for the [Outer-Void](https://github.com/Outer-Void) collective. This repository curates shared doctrine, design language, and collaborative agreements that guide every project in the Outer Void ecosystem (BLUX is one part of it). It is the single point of reference for:
 
 - the mission that anchors our strategy and partnerships;
 - the ethics charter that protects contributors, users, and communities;
@@ -14,7 +14,7 @@ Welcome to the coordination hub for the [Outer-Void](https://github.com/Outer-Vo
 | [Mission Statement](docs/mission.md) | Why we build, who we serve, and how we measure impact. |
 | [Ethics Charter](docs/ethics-charter.md) | Shared guardrails that define transparent, sovereign-friendly collaboration. |
 | [Brand Manifesto](docs/brand-manifesto.md) | Narrative, tone, and visual cues that embody BLUX values. |
-| [Ecosystem Diagram](docs/ecosystem-diagram.md) | Visual map of the BLUX product constellation and dependencies. |
+| [Ecosystem Diagram](docs/ecosystem-diagram.md) | Pointer to the maintained ecosystem map and status matrix. |
 
 ## Collaboration Principles
 
@@ -22,22 +22,31 @@ Welcome to the coordination hub for the [Outer-Void](https://github.com/Outer-Vo
 - **Interdependent Craft** – Teams share primitives, design libraries, and research across repositories before reinventing solutions.
 - **Personal Sovereignty** – Contributors retain ownership of their workflows and data; opt-in consent is required for any telemetry or automation.
 
-## BLUX Ecosystem Repositories
+## Repositories
 
-Below is a living index of the repositories currently maintained under the BLUX banner. Each entry links to its home repository and references complementary projects to encourage cross-pollination.
+The authoritative list of every active repository, with its role and integration boundary, is the
+[repository ownership map](https://github.com/Outer-Void/docs/blob/main/constitution/repositories.md) in the ecosystem constitution. In short:
 
-- [`blux-core`](https://github.com/Outer-Void/blux-core) – Modular runtime that powers experience orchestration; pairs with [`blux-orbit`](https://github.com/Outer-Void/blux-orbit) for realtime synchronization.
-- [`blux-orbit`](https://github.com/Outer-Void/blux-orbit) – Evented collaboration fabric that streams intent between services; optimized for [`blux-core`](https://github.com/Outer-Void/blux-core) extensions.
-- [`blux-design-system`](https://github.com/Outer-Void/blux-design-system) – Accessible component library tuned for co-creation surfaces; exports themes consumed by [`blux-experience-kit`](https://github.com/Outer-Void/blux-experience-kit).
-- [`blux-experience-kit`](https://github.com/Outer-Void/blux-experience-kit) – Reference applications that demonstrate sovereign-friendly workflows; depends on [`blux-core`](https://github.com/Outer-Void/blux-core) and assets from [`blux-design-system`](https://github.com/Outer-Void/blux-design-system).
-- [`blux-governance`](https://github.com/Outer-Void/blux-governance) – Documentation and smart contracts for transparent decision-making; integrates analytics contributed from [`blux-orbit`](https://github.com/Outer-Void/blux-orbit).
+- **BLUX platform:** [`blux`](https://github.com/Outer-Void/blux) (runtime, contracts, `blux` CLI), [`blux-system`](https://github.com/Outer-Void/blux-system) (execution
+  truth), [`blux-gpt`](https://github.com/Outer-Void/blux-gpt) (provider transport), [`blux-app`](https://github.com/Outer-Void/blux-app) (local mission control);
+  engines [`blux-coga`](https://github.com/Outer-Void/blux-coga), [`blux-ca`](https://github.com/Outer-Void/blux-ca), [`dat`](https://github.com/Outer-Void/dat), [`lrc`](https://github.com/Outer-Void/lrc),
+  [`god`](https://github.com/Outer-Void/god); datasets [`blux-coga-dataset`](https://github.com/Outer-Void/blux-coga-dataset), [`blux-ca-dataset`](https://github.com/Outer-Void/blux-ca-dataset).
+- **Developer tools:** [`axiom`](https://github.com/Outer-Void/axiom) (the `ax` control plane), [`blux10k`](https://github.com/Outer-Void/blux10k),
+  [`jadis.toolbox`](https://github.com/Outer-Void/jadis.toolbox).
+- **Products:** [`void.os`](https://github.com/Outer-Void/void.os) (AXIOM Launcher), [`void.sys`](https://github.com/Outer-Void/void.sys) (VOID.SYS),
+  [`void.game`](https://github.com/Outer-Void/void.game) (AXIOM Shooter), [`voidforge`](https://github.com/Outer-Void/voidforge), [`roughin`](https://github.com/Outer-Void/roughin),
+  [`vigyl`](https://github.com/Outer-Void/vigyl), [`termux-background`](https://github.com/Outer-Void/termux-background). Private: `resolver` (the Telegram bot) and
+  `theresolver` (its website).
+- **Governance:** [`docs`](https://github.com/Outer-Void/docs) (constitution, status matrix, findings, legal), [`credits`](https://github.com/Outer-Void/credits)
+  (attribution and provenance).
 
-> _Want to add or update an entry?_ Open a pull request that references the relevant documentation page and detail how your change advances collaboration, transparency, or sovereignty.
+Earlier versions of this page listed five repositories that never existed (`blux-core`, `blux-orbit`,
+`blux-design-system`, `blux-experience-kit`, `blux-governance`); that list was removed on 2026-10-27.
 
 ## Contributing
 
 1. Review the [mission](docs/mission.md) and [ethics charter](docs/ethics-charter.md) before proposing major initiatives.
-2. Use issue templates and project boards within each repository to make progress legible.
+2. Use the issue and pull-request templates (organization defaults live in this repository) to make progress legible. See [CONTRIBUTING](CONTRIBUTING.md) and [SECURITY](SECURITY.md).
 3. Document learnings in the [ecosystem diagram](docs/ecosystem-diagram.md) or linked READMEs when dependencies shift.
 
 ## License

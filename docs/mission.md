@@ -1,5 +1,9 @@
 # Mission Statement
 
+> Corrected 2026-10-27: links to five repositories that never existed (`blux-core`, `blux-orbit`,
+> `blux-design-system`, `blux-experience-kit`, `blux-governance`) were replaced with the components that do this
+> work, or removed. The doctrine itself is unchanged; the earlier text is in git history.
+
 The Outer-Void collective designs software ecosystems that celebrate personal sovereignty while amplifying collective intelligence. We build the BLUX suite to help communities co-create expressive, interoperable, and transparent experiences.
 
 ## North Star
@@ -10,11 +14,11 @@ The Outer-Void collective designs software ecosystems that celebrate personal so
 
 ## Strategic Objectives (2024–2026)
 
-1. **Unified Experience Engine** – Mature [`blux-core`](https://github.com/Outer-Void/blux-core) into a stable orchestration layer that other BLUX products can reliably extend.
-2. **Consent-First Telemetry** – Expand [`blux-orbit`](https://github.com/Outer-Void/blux-orbit) with opt-in instrumentation that keeps contributors aware of how their signals are used.
-3. **Accessible Design Canon** – Grow [`blux-design-system`](https://github.com/Outer-Void/blux-design-system) into a responsive component catalog, co-developed with community designers.
-4. **Living Playbooks** – Publish iterative guides inside [`blux-experience-kit`](https://github.com/Outer-Void/blux-experience-kit) to help partners adopt sovereign collaboration practices.
-5. **Transparent Governance** – Embed decision frameworks into [`blux-governance`](https://github.com/Outer-Void/blux-governance) so contributors can audit and influence organizational evolution.
+1. **Unified Experience Engine** – Mature the BLUX runtime ([`blux`](https://github.com/Outer-Void/blux)) into a stable orchestration layer that other BLUX products can reliably extend.
+2. **Consent-First Telemetry** – Expand the BLUX Hook System (in [`blux`](https://github.com/Outer-Void/blux)) with opt-in instrumentation that keeps contributors aware of how their signals are used.
+3. **Accessible Design Canon** – Grow a shared design system (no repository exists yet) into a responsive component catalog, co-developed with community designers.
+4. **Living Playbooks** – Publish iterative guides in the central documentation ([`docs`](https://github.com/Outer-Void/docs)) to help partners adopt sovereign collaboration practices.
+5. **Transparent Governance** – Embed decision frameworks into the ecosystem constitution ([`docs/constitution`](https://github.com/Outer-Void/docs/tree/main/constitution)) so contributors can audit and influence organizational evolution.
 
 ## Measures of Success
 
