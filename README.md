@@ -33,10 +33,9 @@ The authoritative list of every active repository, with its role and integration
   [`god`](https://github.com/Outer-Void/god); datasets [`blux-coga-dataset`](https://github.com/Outer-Void/blux-coga-dataset), [`blux-ca-dataset`](https://github.com/Outer-Void/blux-ca-dataset).
 - **Developer tools:** [`axiom`](https://github.com/Outer-Void/axiom) (the `ax` control plane), [`blux10k`](https://github.com/Outer-Void/blux10k),
   [`jadis.toolbox`](https://github.com/Outer-Void/jadis.toolbox).
-- **Products:** [`void.os`](https://github.com/Outer-Void/void.os) (AXIOM Launcher), [`void.sys`](https://github.com/Outer-Void/void.sys) (VOID.SYS),
-  [`void.game`](https://github.com/Outer-Void/void.game) (AXIOM Shooter), [`voidforge`](https://github.com/Outer-Void/voidforge), [`roughin`](https://github.com/Outer-Void/roughin),
-  [`vigyl`](https://github.com/Outer-Void/vigyl), [`termux-background`](https://github.com/Outer-Void/termux-background). Private: `resolver` (the Telegram bot) and
-  `theresolver` (its website).
+- **Products:** [`termux-background`](https://github.com/Outer-Void/termux-background) (public). Private (checked 2026-11-08):
+  `void.os` (AXIOM Launcher), `void.sys` (VOID.SYS), `void.game` (AXIOM Shooter), `voidforge`, `roughin`, `vigyl`,
+  `resolver` (the Telegram bot) and `theresolver` (its website).
 - **Governance:** [`docs`](https://github.com/Outer-Void/docs) (constitution, status matrix, findings, legal), [`credits`](https://github.com/Outer-Void/credits)
   (attribution and provenance).
 

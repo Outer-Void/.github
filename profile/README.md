@@ -4,7 +4,7 @@
 
 > Outer Void is built with a clear ethical foundation.
 >
-> "Currently Under Full System Integration - Stage 21 - 30 of 44."
+> "Currently in the OV-46–70 qualification program. No product is released yet."
 
 # Outer Void
 
@@ -63,7 +63,7 @@ Vigyl is being developed around private care groups, assigned responsibilities, 
 
 The objective is not merely to remind someone that something needs to happen, but to help ensure responsibility survives the gap between intention and completion.
 
-Not yet released: the backend core (accounts, invite-only care groups, task lifecycle, escalation, care timeline) exists; the app UI is not built yet.
+Not yet released: the backend core (accounts, invite-only care groups, task lifecycle, escalation, care timeline) exists, with a development-preview app UI; neither is release-qualified.
 
 FastAPI · SQLAlchemy · Alembic · Pydantic · PostgreSQL
 
@@ -77,7 +77,7 @@ The project is being developed around workflows including device communication, 
 
 VoidForge is designed to remain fully functional as a standalone application while also participating in the broader BLUX and Outer Void ecosystem.
 
-VoidForge is currently free and restricted to authorized Outer-Void organization members. Members-only release tooling is in place; making its source repository private is still pending. It is a development preview: device writes are locked and no real-device validation has been recorded yet.
+VoidForge is currently free and restricted to authorized Outer-Void organization members. Its source repository is private and members-only release tooling is in place. It is a development preview: every device write class stays locked until it has recorded real-device evidence, and none has yet.
 
 Android · Kotlin · ADB · Fastboot · Termux · Linux
 
